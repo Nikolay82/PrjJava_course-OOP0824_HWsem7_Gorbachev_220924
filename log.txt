@@ -1,0 +1,12 @@
+сент. 24, 2024 6:18:47 PM util.ApplicationRunner <init>
+INFO: Application started
+сент. 24, 2024 6:18:59 PM calculator.view.ConsoleUI run
+INFO: Operation "+": (1.0 + 2.0i) + (3.0 + 4.0i) = 4.0 + 6.0i
+сент. 24, 2024 6:19:05 PM calculator.view.ConsoleUI run
+INFO: Operation "-": (1.0 + 2.0i) - (3.0 + 4.0i) = -2.0 + -2.0i
+сент. 24, 2024 6:19:12 PM calculator.view.ConsoleUI run
+INFO: Operation "*": (1.0 + 2.0i) * (3.0 + 4.0i) = -5.0 + 10.0i
+сент. 24, 2024 6:19:21 PM calculator.view.ConsoleUI run
+INFO: Operation "/": (1.0 + 2.0i) / (3.0 + 4.0i) = 0.44 + 0.08i
+сент. 24, 2024 6:19:24 PM calculator.view.ConsoleUI run
+INFO: Application completed
